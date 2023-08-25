@@ -8,9 +8,9 @@ Leonardo Guimarães e Leila Beserra
 
 ## Canais de Comunicação
 
-- [Google Space da turma 2023]()
+- [Google Space da turma 2023](https://mail.google.com/mail/u/0/#chat/space/AAAARCDW_6Y)
 
-- [Google Drive da turma 2023]()
+- [Google Drive da turma 2023](https://drive.google.com/drive/folders/1mqH0oRozUDT2hp_FFINIXWrUth49VZdr?usp=sharing)
 
 ## Postagens
 
