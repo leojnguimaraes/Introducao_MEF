@@ -16,3 +16,5 @@ Leonardo Guimarães e Leila Beserra
 
 - [Ementa](https://github.com/leojnguimaraes/Introducao_MEF/blob/main/Leonardo_PEC%201064%20-%20INTRODU%C3%87%C3%83O%20AOS%20M%C3%89TODOS%20DOS%20ELEMENTOS%20FINITOS.pdf)
 
+- [Aula 1](https://github.com/leojnguimaraes/Introducao_MEF/blob/main/MEF%20aula%201.pdf)     [🎦](https://drive.google.com/file/d/10169sOf9ckh9kyF8iXiS9QLPyHkYmF9F/view?usp=sharing) 
+
