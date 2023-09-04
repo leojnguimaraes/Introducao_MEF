@@ -1,6 +1,6 @@
 # Introdução ao Método dos Elementos Finitos - PPGEC/UFPE 2023
 
-- Local: Sala 529, LITPEG, UFPE, Campus Recife
+- Local: Sala 515, LITPEG, UFPE, Campus Recife
 - Horário: 2as feira às 14h
 
 - Professores Responsáveis: 
@@ -21,5 +21,6 @@ Leonardo Guimarães e Leila Beserra
 ## Aulas
 
 - [Aula 1](https://drive.google.com/file/d/1XwEM9RT_PqXf8lUJTSUQU7BhyHkApvn7/view?usp=sharing)     [🎦](https://drive.google.com/file/d/19oozycGRMyu1UPTGYQT4p2LSq_NJ9xxX/view?usp=sharing) 
+- [Aula 2](https://drive.google.com/file/d/1KZlPGgV7xIrjKAr_WyViyC6hmX8R-LeH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1KzX1Smq4T8KHjjd7Qr1WrGhl4bMPr3pZ/view?usp=sharing) 
 
 
