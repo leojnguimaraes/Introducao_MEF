@@ -20,7 +20,10 @@ Leonardo Guimarães e Leila Beserra
 
 ## Aulas
 
-- [Aula 1](https://drive.google.com/file/d/1XwEM9RT_PqXf8lUJTSUQU7BhyHkApvn7/view?usp=sharing)     [🎦](https://drive.google.com/file/d/19oozycGRMyu1UPTGYQT4p2LSq_NJ9xxX/view?usp=sharing) 
-- [Aula 2](https://drive.google.com/file/d/1KZlPGgV7xIrjKAr_WyViyC6hmX8R-LeH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1KzX1Smq4T8KHjjd7Qr1WrGhl4bMPr3pZ/view?usp=sharing) 
+- [Aula híbrida 1](https://drive.google.com/file/d/1XwEM9RT_PqXf8lUJTSUQU7BhyHkApvn7/view?usp=sharing)     [🎦](https://drive.google.com/file/d/19oozycGRMyu1UPTGYQT4p2LSq_NJ9xxX/view?usp=sharing) 
+- [Aula híbrida 2](https://drive.google.com/file/d/1KZlPGgV7xIrjKAr_WyViyC6hmX8R-LeH/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1KzX1Smq4T8KHjjd7Qr1WrGhl4bMPr3pZ/view?usp=sharing)
+- [Aula gravada 1](https://drive.google.com/file/d/1kw0rsU_aMSdf7e60dZ-WguffwXEpBoR8/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1gQxnJ_QN8NFYMDCBSG0eQf_-RmE3zzW0/view?usp=sharing)
+- [Aula gravada 2](https://drive.google.com/file/d/1o8J-lfEG0iv_ifJ-Qf4pN2ujXNTTvlZf/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1sLOtdU8MlsmQZjSDbNYbLA0Gb843Xb1M/view?usp=sharing)
+- [Aula gravada 3](https://drive.google.com/file/d/15EvEKhEqziB62zFZ7lU__My00Hg7gGXU/view?usp=sharing)     [🎦](https://drive.google.com/file/d/1SYEHweLEnrzdYat5qhBDByX0uvXnHEoT/view?usp=sharing)
 
 
