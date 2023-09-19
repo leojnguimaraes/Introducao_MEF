@@ -12,6 +12,8 @@ Leonardo Guimarães e Leila Beserra
 
 - [Google Drive da turma 2023](https://drive.google.com/drive/folders/1mqH0oRozUDT2hp_FFINIXWrUth49VZdr?usp=sharing)
 
+- [Google Classroom da turma 2023](https://classroom.google.com/u/0/w/NjI0MjkyNTUzMTU4/t/all)
+
 ## Postagens
 
 - [Ementa](https://drive.google.com/file/d/10169sOf9ckh9kyF8iXiS9QLPyHkYmF9F/view?usp=sharing)
